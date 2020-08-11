@@ -1,3 +1,0 @@
----
-permalink: http://mkvats.science/
----
